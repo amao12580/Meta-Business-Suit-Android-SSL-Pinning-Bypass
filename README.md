@@ -14,7 +14,7 @@ Bypass Meta Business Suite SSL pinning on Android devices.
 ## ✅ Other Apps
 1. [Business Suite iOS](https://github.com/amao12580/Meta-Business-Suite-iOS-SSL-Pinning-Bypass)
 
-## 📦 For Demo - Download Official APKs
+## 📦 Contact Telegram
   - For any issues, contact me on Telegram. Read README.md carefully before use.
   - Please note that the latest version is a paid release and is not available for free download.
 <table width="100%">
