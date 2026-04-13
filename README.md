@@ -32,7 +32,7 @@ Bypass Meta Business Suite SSL pinning on Android devices.
       <td rowspan="2" align="center"><code>com.facebook.pages.app</code></td>
       <td align="center">547.0.0.40.109</td>
       <td align="center">✅ Bypassed</td>
-      <td align="center">Yes</td>
+      <td align="center">No</td>
       <td colspan="2" align="center"><a href="https://t.me/glod_usa">Contact Telegram</a></td>
     </tr>
   </tbody>
